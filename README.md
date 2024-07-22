@@ -30,4 +30,14 @@ python Credential_Checker.py
 5. Working credentials will be saved to a file named working_credentials.xlsx in the same directory.
 
 
-Happy Hunting :)
+Get the Chrome webdriver according to your spec 
+https://getwebdriver.com/chromedriver#stable
+
+you can check the version of your chrome in settings>help>about.
+  I used VScode with the following integrations
+  selenium
+  pandas
+  openpyxl
+  python
+
+  I additionally upload another modified version where you can replace the user name and password by ID. 
