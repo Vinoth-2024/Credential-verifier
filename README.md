@@ -5,6 +5,8 @@ This Python script checks the validity of credentials by attempting to login to 
 + Reads website URLs, usernames, and passwords from an Excel sheet.
 + Opens a Chrome browser window and attempts to login to each website using the provided credentials.
 + Checks if login was successful and stores the working credentials in an Excel file.
++ Modified with webdriver delay. It is useful for working with slow internet connection.
++ It autodetects most of the website's login elements.
 
 # Installation
 1. Clone this repository to your local machine:
