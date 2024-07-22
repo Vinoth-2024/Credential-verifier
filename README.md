@@ -41,3 +41,4 @@ you can check the version of your chrome in settings>help>about.
   python
 
   I additionally upload another modified version where you can replace the user name and password by ID. 
+  check the file web_auto_by_id.py
